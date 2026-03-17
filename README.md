@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Pixelhunter 👋
 
-<!--
-**pixelhunter1/pixelhunter1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer focused on websites, apps, AI tools and automation.
 
-Here are some ideas to get you started:
+## About me
+- Building digital products with a focus on design and functionality
+- Working with web development, AI integrations and custom solutions
+- Interested in websites, apps, automation and user experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- JavaScript
+- TypeScript
+- React
+- PHP
+- WordPress
+- Swift
+- OpenAI
+- Laravel
+
+## Featured Work
+- Custom websites
+- AI-powered tools
+- Automation workflows
+- Web platforms for real clients
+
+## Links
+- Website: https://breakcolorui.com
+- Instagram: https://www.instagram.com/pixelhunter.pt
